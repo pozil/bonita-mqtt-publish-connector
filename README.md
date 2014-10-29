@@ -1,6 +1,6 @@
 bonita-mqtt-publish-connector
 =============================
-**Bonita connector that publishes a MQTT message**
+**Bonita connector that publishes a [MQTT](http://mqtt.org/MQTT) message**
 
 ##Deliverables:
 1. Connector ZIP file
